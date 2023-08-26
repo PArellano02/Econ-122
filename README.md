@@ -1,3 +1,3 @@
 # Econ-122
 
-HEHEHEHEHEHEHE
+Main Repo for my Data Science and Stats learning class. 
